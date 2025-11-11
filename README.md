@@ -1,10 +1,10 @@
 <p align="center"><code>project.url</code></p>
 
-<div align="center">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
-<div align="center">Et at sed aperiam minus, illum nostrum magnam odit laudantium incidunt voluptate!</div>
+<div align="center">Lorem ipsum dolor sit amet consectetur.</div>
+<div align="center">Voluptates maiores quas aperiam culpa!</div>
 
 <br>
 
-![Preview](https://esflowers.icu/preview.png)
+![Preview](preview.png)
 
 <br>
