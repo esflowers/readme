@@ -22,13 +22,21 @@
 <div align="center">
 <samp>
 
-[[AUTHORS](url)] [[LICENSE·MIT](url)]
+[[INSTALLATION](#installation)] [[USAGE](#usage--examples)] [[STACK](#stack)] [[FAQ](#faq)] [[AUTHORS](#authors)] [[CONTRIBUTING](url)] [[LICENSE](url)]
 
 </samp>
 </div>
 
 &nbsp;
 
-### AUTHORS
+### Installation
+
+### Usage / Examples
+
+### Stack
+
+### FAQ
+
+### Authors
 
 - [`@user`](https://github.com/user) &nbsp;|&nbsp; *Role*
