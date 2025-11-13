@@ -22,14 +22,31 @@
 <div align="center">
 <samp>
 
-[[INSTALLATION](#installation)] [[USAGE](#usage--examples)] [[STACK](#stack)] [[FAQ](#faq)] [[AUTHORS](#authors)] [[CONTRIBUTING](url)] [[LICENSE](url)]
+[[SETUP](#setup)] [[USAGE](#usage--examples)] [[STACK](#stack)] [[FAQ](#faq)] [[AUTHORS](#authors)] [[CONTRIBUTING](url)] [[LICENSE](url)]
 
 </samp>
 </div>
 
 &nbsp;
 
-### Installation
+### Setup
+`VIA npm`
+
+#### INSTALL
+```bash
+npm install project
+cd project
+```
+
+#### COMPILE FOR DEVELOPMENT
+```bash
+npm run dev
+```
+
+#### COMPILE FOR PRODUCTION
+```bash
+npm run build
+```
 
 ### Usage / Examples
 
