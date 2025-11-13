@@ -58,9 +58,10 @@ function App() {
 ```
 
 ### Stack
+[`HTML`](url) [`CSS`](url) [`JavaScript`](url)
 
 ### FAQ
 
 ### Authors
 
-- [`@user`](https://github.com/user) &nbsp;|&nbsp; *Role*
+- { [@user](https://github.com/user) }&nbsp; *Role*
