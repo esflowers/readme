@@ -5,7 +5,7 @@
 
 <br>
 
-<!-- ![Preview](preview.png) -->
+![Preview](preview.png)
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 <div align="center">
 <samp>
 
-[[SETUP](#setup)] [[USAGE](#usage--examples)] [[STACK](#stack)] [[FAQ](#faq)] [[AUTHORS](#authors)] [[CONTRIBUTING](url)] [[LICENSE](url)]
+[[SETUP](#setup)] [[USAGE](#usage--examples)] [[DNA](#project-dna)] [[FAQ](#faq)] [[AUTHORS](#authors)] [[CONTRIBUTING](url)] [[LICENSE](url)]
 
 </samp>
 </div>
@@ -30,7 +30,6 @@
 &nbsp;
 
 ### Setup
-`VIA npm`
 
 #### INSTALL
 ```bash
@@ -57,11 +56,22 @@ function App() {
 }
 ```
 
-### Stack
-[`HTML`](url) [`CSS`](url) [`JavaScript`](url)
+### Project DNA
+`STACK` &nbsp;**·**&nbsp; [`Metaframework`](url)&nbsp; [`Framework`](url)&nbsp; [`Language`](url)&nbsp; [`Library`](url)&nbsp; [`DataBase`](url)&nbsp; [`Other`](url)&nbsp; [`Hosting`](url)
+
+`FONTS` &nbsp;**·**&nbsp; [`Display`](url)&nbsp; [`Sans Serif`](url)&nbsp; [`Serif`](url)&nbsp; [`Monospaced`](url)
 
 ### FAQ
 
+- **Question...?** Answer...
+- **Question...?** Answer...
+
 ### Authors
 
-- { [@user](https://github.com/user) }&nbsp; *Role*
+- [@user](https://github.com/user)&nbsp; { Role }
+
+<div align="right">
+
+*Sentence.*
+
+</div>
