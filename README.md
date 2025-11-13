@@ -5,7 +5,7 @@
 
 <br>
 
-![Preview](preview.png)
+![Preview](image.png)
 
 <div align="center">
 
