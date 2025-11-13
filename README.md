@@ -1,11 +1,11 @@
-<p align="center"><code>project.url</code></p>
+<p align="center"><a href="project.url"><code>project.url</code></a></p>
 
 <div align="center">Lorem ipsum dolor sit amet consectetur.</div>
 <div align="center">Ad laudantium velit eum.</div>
 
 <br>
 
-![Preview](preview.png)
+<!-- ![Preview](preview.png) -->
 
 <div align="center">
 
@@ -13,4 +13,8 @@
 
 </div>
 
-<h3 align="center">-----</h3>
+&nbsp;
+
+#### AUTHORS
+
+- [`@user`](https://github.com/user) &nbsp;|&nbsp; *Role*
