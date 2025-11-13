@@ -1,3 +1,4 @@
+![Project](logotype.png)
 <p align="center"><a href="project.url"><code>project.url</code></a></p>
 
 <div align="center">Lorem ipsum dolor sit amet consectetur.</div>
