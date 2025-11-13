@@ -13,8 +13,22 @@
 
 </div>
 
+<div align="center">
+
+`V.0.0`
+
+</div>
+
+<div align="center">
+<samp>
+
+[[AUTHORS](url)] [[LICENSE·MIT](url)]
+
+</samp>
+</div>
+
 &nbsp;
 
-#### AUTHORS
+### AUTHORS
 
 - [`@user`](https://github.com/user) &nbsp;|&nbsp; *Role*
