@@ -31,23 +31,25 @@
 
 ### Setup
 
-#### INSTALL
+##### INSTALL
 ```bash
 npm install project
 cd project
 ```
 
-#### COMPILE FOR DEVELOPMENT
+##### COMPILE FOR DEVELOPMENT
 ```bash
 npm run dev
 ```
 
-#### COMPILE FOR PRODUCTION
+##### COMPILE FOR PRODUCTION
 ```bash
 npm run build
 ```
 
 ### Usage / Examples
+
+##### USE
 ```javascript
 import Component from 'project'
 
@@ -57,9 +59,10 @@ function App() {
 ```
 
 ### Project DNA
-`STACK` &nbsp;**·**&nbsp; [`Metaframework`](url)&nbsp; [`Framework`](url)&nbsp; [`Language`](url)&nbsp; [`Library`](url)&nbsp; [`DataBase`](url)&nbsp; [`Other`](url)&nbsp; [`Hosting`](url)
 
-`FONTS` &nbsp;**·**&nbsp; [`Display`](url)&nbsp; [`Sans Serif`](url)&nbsp; [`Serif`](url)&nbsp; [`Monospaced`](url)
+**`STACK`** &nbsp;**·**&nbsp; [`Metaframework`](url)&nbsp; [`Framework`](url)&nbsp; [`Language`](url)&nbsp; [`Library`](url)&nbsp; [`DataBase`](url)&nbsp; [`Other`](url)&nbsp; [`Hosting`](url)
+
+**`FONTS`** &nbsp;**·**&nbsp; [`Display`](url)&nbsp; [`Sans Serif`](url)&nbsp; [`Serif`](url)&nbsp; [`Monospaced`](url)
 
 ### FAQ
 
@@ -70,8 +73,8 @@ function App() {
 
 - [@user](https://github.com/user)&nbsp; { Role }
 
+<br>
 <div align="right">
 
 *Sentence.*
-
 </div>
