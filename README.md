@@ -49,6 +49,13 @@ npm run build
 ```
 
 ### Usage / Examples
+```javascript
+import Component from 'project'
+
+function App() {
+    return <Component />
+}
+```
 
 ### Stack
 
