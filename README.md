@@ -23,7 +23,7 @@
 <div align="center">
 <samp>
 
-[[SETUP](#setup)] [[USAGE](#usage--examples)] [[DNA](#project-dna)] [[FAQ](#faq)] [[AUTHORS](#authors)] [[CONTRIBUTING](url)] [[LICENSE](url)]
+[[ SETUP ](#setup)] [[ USAGE ](#usage--examples)] [[ DNA ](#project-dna)] [[ FAQ ](#faq)] [[ AUTHORS ](#authors)] [[ CONTRIBUTING ](url)] [[ LICENSE ](url)]
 
 </samp>
 </div>
